@@ -1,2 +1,15 @@
 # C
-This repository is used to store my c language practice questtions and the programs i have learned
+
+This repository contains my C programming practice codes and problem-solving programs.
+
+## Topics
+- Basics
+- Conditions & Loops
+- Functions
+- Arrays
+- Pointers
+
+## How to Run
+```bash
+gcc file.c -o file
+./file
